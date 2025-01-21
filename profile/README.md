@@ -1,6 +1,6 @@
 ## Hey, this is Zavvis Technologies 👋
 
-We are building a GenAI Consulting, Valuation & Strategic Planning platform for SMEs. You can check us out at zavvis.ai ✨
+We are building a AI-driven CFO Agent using a modular approach. You can check us out at zavvis.ai ✨
 
 Our core tech stack:
 - NextJS + Shadcn + Tailwindcss
